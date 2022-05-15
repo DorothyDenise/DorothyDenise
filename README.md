@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DorothyDenise
 - 👀 I’m interested in Front End Development 
 - 🌱 I’m currently learning Front End Development @SheCodes and recently completed my basics.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Dorothy.denise12@gmail.com
 
 <!---
